@@ -1,0 +1,6 @@
+{
+  "name": "NeuroGuardian AI",
+  "description": "Closed loop AI driven wearable therapy for diabetic neuropathy care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
